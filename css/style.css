@@ -66,6 +66,7 @@
      margin-left: 0px;
      margin-right: 0px;
  }
+ /* Banner image & flex box*/
  
  #headerimage {
      width: 100%;
@@ -83,18 +84,13 @@
      margin-bottom: 3%;
      font-weight: bold;
  }
+ /* Content right Panel*/
  
  section {
      display: flex;
      justify-content: space-between;
      align-items: center;
      padding-bottom: 50px;
- }
- 
- main {
-     position: relative;
-     text-align: center;
-     color: white;
  }
  
  article {
@@ -106,6 +102,14 @@
      padding-right: 2%;
      line-height: 1.em;
  }
+ /* Banner*/
+ 
+ main {
+     position: relative;
+     text-align: center;
+     color: white;
+ }
+ /* Content Left Panel*/
  
  aside {
      width: 70%;
@@ -116,6 +120,7 @@
      border-left: solid;
      position: relative;
  }
+ /* Footer Row column*/
  
  .row {
      display: flex;
@@ -125,6 +130,7 @@
      font-size: large;
      color: var(--color-darkblue);
  }
+ /* Footer Flex column*/
  
  .column {
      display: flex;
@@ -132,10 +138,12 @@
      width: auto;
      margin: 2%;
  }
+ /* Footer*/
  
  footer {
      text-align: center
  }
+ /* Flex Row*/
  
  .grid2x2 {
      min-height: 100%;
@@ -143,6 +151,7 @@
      flex-wrap: wrap;
      flex-direction: row;
  }
+ /* Flex Column*/
  
  .grid2x2 div {
      display: flex;
@@ -156,27 +165,32 @@
      padding-right: 5px;
      position: relative;
  }
+ /* Image Size*/
  
  img {
      max-width: 100%;
      max-height: 100%;
  }
+ /* Image color grow*/
  
  img:hover {
      filter: alpha(opacity=80);
      opacity: .8;
  }
+ /* Inside flex box */
  
  .inner {
      background-color: var(--color-lightblue);
      position: absolute;
      font-size: 18px;
-     width: 10%;
+     width: 20%;
      height: 10%;
      bottom: 30%;
  }
 }
-back @media screen and (max-width: 768px) {
+
+/* Resize Scren*/
+@media screen and (max-width: 768px) {
     header,
     main,
     nav {
@@ -190,5 +204,10 @@ back @media screen and (max-width: 768px) {
     aside {
         width: 100%;
         text-align: center;
+    }
+    
+    .grid2x2 {
+        display: flex;
+        flex-wrap: wrap;
     }
 }
