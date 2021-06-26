@@ -209,5 +209,6 @@
     .grid2x2 {
         display: flex;
         flex-wrap: wrap;
+        flex-direction: column;
     }
 }
