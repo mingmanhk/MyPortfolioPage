@@ -27,4 +27,4 @@ Published github Repo:
  https://github.com/mingmanhk/Bootcamp-HW2
 
  Published site:
- https://mingmanhk.github.io/Bootcamp-HW2/
+ https://mingmanhk.github.io/Victor-s-Portfolio/ 
