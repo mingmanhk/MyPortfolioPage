@@ -1,30 +1,39 @@
-# Bootcamp-HW2
+# My Portfolio Page
 This is homework 2 assigment 
 
+Author: Victor Lam
 
-User Story
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-Acceptance Criteria
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+Github Repository: https://github.com/mingmanhk/MyPortfolioPage
+Page: https://mingmanhk.github.io/MyPortfolioPage/ 
 
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport -done
+Purpose: 
+Create a professional portfolio page along with github project, linkedin and resume
 
-Published github Repo:
- https://github.com/mingmanhk/Bootcamp-HW2
+Requirements: 
+Updated portfolio featuring Project 1 and two exemplary homework assignments.-Done
+    1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as Google Voice. - Done
+    2. Have links to your GitHub profile and LinkedIn profile - Done
+    3. Have a link to a downloadable PDF of your resume - Done
+    4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following - Done
+        -Project title
+        -Link to the deployed version
+        -Link to the GitHub repository
+        -Screenshot of the deployed application
+    5. Have a polished, mobile-responsive user interface. -Done
+        -Mobile-first design-Done
+        -Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.-Done
+        -Make sure the font size is large enough to read, and that the colors don't cause eye strain.-Done
+Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.-Done
+    1. Profile picture or avatar
+    2. A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
+Biography
+    3. Email address. If you don't want to share your personal email or phone number, use a developer email.-Done
+    4. Link to your deployed portfolio-Done
+    5. At least 2 pinned repositories:-Done
+    6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.-Done
+    7. README files. Every pinned project should contain a README file with:-Done
+    8. Commit history. Every pinned repository should have at least 20 commits.-Done
+Updated resume-Done
+Updated LinkedIn profile-Done
 
- Published site:
- https://mingmanhk.github.io/Victor-s-Portfolio/ 
+Page
