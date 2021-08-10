@@ -2,7 +2,7 @@
 ##Author: Victor Lam
 
 Github Repository: https://github.com/mingmanhk/MyPortfolioPage\
-Page: https://mingmanhk.github.io/MyPortfolioPage/ \
+Page: https://mingmanhk.github.io/MyPortfolioPage/ 
 
 ## Purpose: 
 Create a professional portfolio page along with github project, linkedin and resume
