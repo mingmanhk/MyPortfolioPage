@@ -40,6 +40,9 @@ Biography
 Updated resume-Done
 Updated LinkedIn profile-Done
 
+## Contact Me
+Email: mingmanhk@gmail.com
+
 ## Page
 ![Page](assets/Page.jpg)
 
